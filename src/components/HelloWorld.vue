@@ -23,7 +23,7 @@
         <a
           href="https://chat.vuejs.org"
           target="_blank"
-        >
+        >·
           Community Chat
         </a>
       </li>
@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to Your Vue.js App啦啦'
     }
   }
 }
