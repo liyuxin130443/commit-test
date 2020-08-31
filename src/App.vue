@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    lalahaha
+    lalahahaheihei
     <img src="./assets/logo.png">
     <router-view/>
   </div>
